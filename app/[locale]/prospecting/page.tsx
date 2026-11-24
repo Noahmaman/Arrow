@@ -128,7 +128,6 @@ export default async function ProspectingPage({ params }: Props) {
     <div className="relative overflow-hidden">
       <script
         type="application/ld+json"
-        // eslint-disable-next-line react/no-danger
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData(locale)).replace(/</g, "\\u003c") }}
       />
 
