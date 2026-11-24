@@ -1,0 +1,24 @@
+# Arrow AI
+
+> Arrow AI builds enterprise AI solutions. Its AI Prospecting product is an AI search engine for B2B sales: you describe your ideal customer in plain language, AI agents search the live web, find matching companies and decision-makers, explain why each one matches with sources, verify their contact details and export them to your CRM.
+
+Languages: English, French, Spanish.
+
+## AI Prospecting
+- [AI Prospecting (EN)](/en/prospecting): overview, how it works in 3 steps, features, use cases, comparison with static lead databases, pricing, FAQ.
+- [Prospection IA (FR)](/fr/prospecting): version française.
+- [Prospección IA (ES)](/es/prospecting): versión en español.
+
+## Key facts
+- Search method: natural-language description of an ideal customer profile (ICP), no fixed filters.
+- Data: read from public web sources at query time (websites, job posts, news, registries), plus contact enrichment and real-time email verification.
+- Each lead includes evidence and source links explaining why it matches.
+- Integrations: HubSpot, Salesforce, Pipedrive, Lemlist, CSV, API.
+- Compliance: GDPR, EU data hosting, DPA available.
+- Plans: Starter (free, 50 leads), Growth (€99/month, 1,000 leads), Enterprise (custom).
+
+## Company
+- [AI Agents](/en/ai-agents)
+- [Solutions by industry](/en/solutions)
+- [Pricing](/en/pricing)
+- [Contact](/en/contact)

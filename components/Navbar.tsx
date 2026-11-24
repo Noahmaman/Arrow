@@ -20,6 +20,7 @@ export default function Navbar() {
     { href: "/", label: t("home") },
     { href: "/solutions", label: t("solutions") },
     { href: "/ai-agents", label: t("agents") },
+    { href: "/prospecting", label: t("prospecting") },
     { href: "/services", label: t("services") },
     { href: "/pricing", label: t("pricing") },
     { href: "/about", label: t("about") },
